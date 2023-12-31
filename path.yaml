@@ -11,6 +11,7 @@ paths:
   - "~/.bash_profile"
   - "~/.bashrc"
   - "~/.bash_logout"
+  - "~/.pip"
   # /etc
   - "/etc/pacman.conf"
 
