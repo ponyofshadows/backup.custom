@@ -1,0 +1,16 @@
+paths:
+  # ~/.config
+  - "~/.config/alacritty"
+  - "~/.config/fcitx"
+  - "~/.config/fcitx5"
+  - "~/.config/fish"
+  - "~/.config/nvim"
+  - "~/.config/sway"
+  # ~
+  - "~/.bash"
+  - "~/.bash_profile"
+  - "~/.bashrc"
+  - "~/.bash_logout"
+  # /etc
+  - "/etc/pacman.conf"
+
