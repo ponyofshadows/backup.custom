@@ -36,8 +36,6 @@ else
     echo "Exception: Avoid to backup files in other user's home: $filepath"
     continue
 fi
-    mkdir -p "$(dirname "$backup_path")"
-    cp -R "$filepath" "$backup_path"
 
 done < path.yaml
 
