@@ -226,6 +226,10 @@ bindsym $mod+r mode "resize"
     bindsym XF86AudioLowerVolume exec --no-startup-id amixer -c 1 set Master 5%- unmute
 
 #
+# work
+#
+    bindsym $mod+p exec okular
+#
 # Status Bar:
 #
 # Read `man 5 sway-bar` for more information about this section.

@@ -1,8 +1,11 @@
 #!/bin/bash
 
 # Create backup directories
-mkdir -p ./home_root
-mkdir -p ./filesystem_root
+rm -r ./home_root
+rm -r ./filesystem_root
+
+mkdir  ./home_root
+mkdir  ./filesystem_root
 
 # Read paths from path.yaml
 while IFS= read -r line; do
