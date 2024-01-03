@@ -6,4 +6,4 @@ a path to backup important configuration files
 - `bash restore.sh [usernames]` to restore files for the system and all normal users you mentioned.
 
 ## What's more
-the script `restore.sh` need to be tested.
+the script `restore.sh` needs to be tested.

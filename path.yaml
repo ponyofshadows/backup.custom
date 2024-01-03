@@ -6,6 +6,7 @@ paths:
   - "~/.config/fish"
   - "~/.config/nvim"
   - "~/.config/sway"
+  - "~/.config/user-dirs.dirs"
   # ~
   - "~/.bash"
   - "~/.bash_profile"

@@ -1,5 +1,6 @@
 # XDG Base Directory Specification
 #export XDG_CONFIG_HOME=$HOME/XDG_config_home
+export XDG_CURRENT_DESKTOP=sway
 export XDG_SCREENSHOTS_DIR=$HOME/screenshots
 
 # fcitx5
