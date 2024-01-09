@@ -1,7 +1,9 @@
 #
-# ~/.bash_logout
+# ~/.bash_profile
 #
 
+# export bash_profile
+echo "[source] $HOME/.bash_profile"
 # env & login
 if [ -f ~/.bash/env.sh ]; then
   . ~/.bash/env.sh

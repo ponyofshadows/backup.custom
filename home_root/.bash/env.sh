@@ -11,6 +11,8 @@ export SDL_IM_MODULE=fcitx
 # Wayland
 export GBM_BACKEND=nvidia-drm
 export __GLX_VENDOR_LIBRARY_NAME=nvidia
+#export LIBVA_DRIVER_NAME=nvidia
+#export LIBVA_DRIVER_NAME=adeonsi
 
 # some workarounds to use sway with Nvidia
 # may cause in error when launching sway
