@@ -7,6 +7,7 @@ paths:
   - "~/.config/nvim"
   - "~/.config/sway"
   - "~/.config/user-dirs.conf"
+  - "~/.config/papis"
   # ~
   - "~/.bash"
   - "~/.bash_profile"
