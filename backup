@@ -1,5 +1,5 @@
 #!/bin/bash
-
+set -e
 # Create backup directories
 rm -r ./home_root
 rm -r ./filesystem_root
