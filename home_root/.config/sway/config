@@ -232,7 +232,6 @@ bindsym $mod+r mode "resize"
 #
     bindsym $mod+p exec okular
     bindsym $mod+m exec mathematica
-    bindsym $mod+Shift+s exec steam steam://rungameid/413150
 #
 # Status Bar:
 #

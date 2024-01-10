@@ -1,5 +1,6 @@
 [papers]
 dir = ~/research/papers
+opentool = zathura
 
 [settings]
 default-library = papers
