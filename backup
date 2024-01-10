@@ -42,5 +42,9 @@ fi
 
 done < path.yaml
 
+git add -A
+git commit -m "Config Update $(DATE)"
+git push origin master
+
 echo "Backup complete."
 
