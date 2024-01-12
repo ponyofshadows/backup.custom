@@ -15,6 +15,7 @@ paths:
   - "~/.bashrc"
   - "~/.bash_logout"
   - "~/.pip"
+  - "~/.scripts/mathematica"
   # /etc
   - "/etc/pacman.conf"
 

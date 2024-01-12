@@ -231,7 +231,7 @@ bindsym $mod+r mode "resize"
 # work & entertainment
 #
     bindsym $mod+p exec okular
-    bindsym $mod+m exec mathematica
+    bindsym $mod+m exec $HOME/.scripts/mathematica
 #
 # Status Bar:
 #

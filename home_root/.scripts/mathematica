@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# Start Mathematica
+mathematica &
+
+# Wait for 1 second
+sleep 1
+
+# Delete the Wolfram Mathematica directory in the home folder
+rm -rf ~/Wolfram\ Mathematica
+
