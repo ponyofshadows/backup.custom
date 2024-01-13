@@ -1,6 +1,5 @@
 # XDG Base Directory Specification
 #export XDG_CONFIG_HOME=$HOME/XDG_config_home
-export XDG_SCREENSHOTS_DIR=$HOME/screenshots
 
 # fcitx5
 export GTK_IM_MODULE=fcitx
@@ -13,6 +12,7 @@ export GBM_BACKEND=nvidia-drm
 export __GLX_VENDOR_LIBRARY_NAME=nvidia
 #export LIBVA_DRIVER_NAME=nvidia
 #export LIBVA_DRIVER_NAME=adeonsi
+export XDG_CURRENT_DESKTOP=sway
 
 # some workarounds to use sway with Nvidia
 # may cause in error when launching sway

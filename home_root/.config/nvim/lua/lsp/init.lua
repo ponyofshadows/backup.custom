@@ -28,3 +28,7 @@ lspconfig.rls.setup {
 require'lspconfig'.rls.setup{}
 -- texlab for (La)Tex
 require'lspconfig'.texlab.setup{}
+
+-- fortls for Fortran
+-- install py "yay -S fortls"
+require'lspconfig'.fortls.setup{}

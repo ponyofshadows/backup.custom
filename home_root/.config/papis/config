@@ -1,6 +1,6 @@
 [papers]
 dir = ~/research/papers
-opentool = zathura
+opentool = okular
 
 [settings]
 default-library = papers
