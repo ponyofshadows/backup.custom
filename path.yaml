@@ -3,7 +3,6 @@ paths:
   - "~/.config/kitty"
   - "~/.config/fcitx5"
   - "~/.config/fish"
-  - "~/.config/nvim"
   - "~/.config/sway"
   - "~/.config/user-dirs.conf"
   - "~/.config/user-dirs.dirs"

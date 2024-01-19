@@ -6,4 +6,5 @@ a path to backup important configuration files
 - As root user, `./restore [usernames]` to restore files for the system and all normal users you mentioned.
 
 ## What's more
-the script `restore` needs to be tested.
+- the script `restore` needs to be tested.
+- config files of `neovim` and `tmux` aren't contained.
