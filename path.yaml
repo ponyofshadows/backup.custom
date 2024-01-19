@@ -1,6 +1,6 @@
 paths:
   # ~/.config
-  - "~/.config/alacritty"
+  - "~/.config/kitty"
   - "~/.config/fcitx5"
   - "~/.config/fish"
   - "~/.config/nvim"
