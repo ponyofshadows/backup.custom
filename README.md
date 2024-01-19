@@ -7,4 +7,3 @@ a path to backup important configuration files
 
 ## What's more
 - the script `restore` needs to be tested.
-- config files of `neovim` and `tmux` aren't contained.

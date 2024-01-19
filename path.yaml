@@ -7,6 +7,8 @@ paths:
   - "~/.config/user-dirs.conf"
   - "~/.config/user-dirs.dirs"
   - "~/.config/papis"
+  - "~/.config/tmux"
+  - "~/.config/nvim"
   # ~
   - "~/.bash"
   - "~/.bash_profile"
