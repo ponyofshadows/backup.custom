@@ -1,6 +1,9 @@
 # XDG Base Directory Specification
 #export XDG_CONFIG_HOME=$HOME/XDG_config_home
 
+# editor
+export EDITOR=nvim
+
 # fcitx5
 export GTK_IM_MODULE=fcitx
 export QT_IM_MODULE=fcitx

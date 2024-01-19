@@ -14,7 +14,8 @@ set $down j
 set $up k
 set $right l
 # Your preferred terminal emulator
-set $term kitty
+set $term "kitty sh -c 'tmux attach || tmux'"
+set $newterm "kitty sh -c 'tmux'"
 # Your preferred browser
 set $browser firefox-beta
 # PATH of grimshot provided by sway
@@ -70,6 +71,7 @@ output eDP-1 scale 1.25
 #
     # Start a terminal
     bindsym $mod+Return exec $term
+    bindsym $mod+Shift+Return exec $newterm
     
     # Start a browser
     bindsym $mod+c exec $browser
