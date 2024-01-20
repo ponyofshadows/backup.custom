@@ -17,7 +17,7 @@ set $right l
 set $term "kitty sh -c 'tmux attach || tmux'"
 set $newterm "kitty sh -c 'tmux'"
 # Your preferred browser
-set $browser firefox-beta
+set $browser firefox
 # PATH of grimshot provided by sway
 set $grimshot /usr/share/sway/scripts/grimshot
 # Your preferred application launcher

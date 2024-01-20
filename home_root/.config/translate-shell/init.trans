@@ -1,0 +1,11 @@
+{
+ :verbose         true
+ :show-original   false
+ :indent          2
+ :view            false
+ :hl              "en"
+ :tl              "zh"
+ :inet4-only      true
+ :proxy "localhost:20171"
+
+}
