@@ -232,7 +232,7 @@ bindsym $mod+r mode "resize"
 #
 # work & entertainment
 #
-    bindsym $mod+p exec okular
+    bindsym $mod+p exec xournalpp 
     bindsym $mod+m exec $HOME/.scripts/mathematica
     bindsym $mod+Ctrl+q exec linuxqq
     bindsym $mod+Alt+q exec pkill qq
