@@ -265,4 +265,4 @@ include /etc/sway/config.d/*
 for_window [shell="xwayland"] title_format "[XWayland] %title"
 
 # startup
-exec_always --no-startup-id fcitx5
+exec_always --no-startup-id fcitx5 -d

@@ -17,6 +17,7 @@ paths:
   - "~/.pip"
   - "~/.scripts/mathematica"
   - "~/.local/share/fcitx5/rime/default.custom.yaml"
+  - "~/.local/share/fcitx5/rime/default.yaml"
   # /etc
   - "/etc/pacman.conf"
 
