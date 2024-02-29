@@ -9,7 +9,8 @@ paths:
   - "~/.config/papis"
   - "~/.config/tmux"
   - "~/.config/translate-shell"
-    "~/.config/xournalpp"
+  - "~/.config/xournalpp"
+  - "~/.config/fontconfig/fonts.conf"
   # ~
   - "~/.bash"
   - "~/.bash_profile"

@@ -22,3 +22,6 @@ export XDG_CURRENT_DESKTOP=sway
 #export WLR_RENDERER=vulkan
 #export WLR_NO_HARDWARE_CURSORS=1
 #export XWAYLAND_NO_GLAMOR=1
+
+# path: texlive
+export PATH="/usr/local/texlive/2023/bin/x86_64-linux:$PATH"
