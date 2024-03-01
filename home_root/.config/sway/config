@@ -19,7 +19,7 @@ set $newterm "kitty sh -c 'tmux'"
 # Your preferred browser
 set $browser firefox
 # PATH of grimshot provided by sway
-set $grimshot /usr/share/sway/scripts/grimshot
+set $grimshot grimshot
 # Your preferred application launcher
 # Note: pass the final command to swaymsg so that the resulting window can be opened
 # on the original workspace that the command was run on.
