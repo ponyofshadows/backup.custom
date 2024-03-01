@@ -236,8 +236,7 @@ bindsym $mod+r mode "resize"
     bindsym $mod+m exec $HOME/.scripts/mathematica
     bindsym $mod+Ctrl+q exec linuxqq
     bindsym $mod+Alt+q exec pkill qq
-    bindsym $mod+Ctrl+w exec wechat
-    bindsym $mod+Alt+w exec pkill WeChat.exe
+    bindsym $mod+t exec steam steam://run/227300
 #
 # Status Bar:
 #
