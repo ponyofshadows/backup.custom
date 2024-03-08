@@ -6,7 +6,7 @@
   <property name="pressureMultiplier" value="1"/>
   <property name="zoomGesturesEnabled" value="true"/>
   <property name="selectedToolbar" value="Portrait"/>
-  <property name="lastSavePath" value="/home/ponyofshadows/research/books/mathematics_for_physics"/>
+  <property name="lastSavePath" value="/home/ponyofshadows/research/books/solid_state_physics"/>
   <property name="lastOpenPath" value="/home/ponyofshadows/research/books/solid_state_physics"/>
   <property name="lastImagePath" value=""/>
   <property name="edgePanSpeed" value="20"/>
@@ -14,8 +14,8 @@
   <property name="zoomStep" value="10"/>
   <property name="zoomStepScroll" value="2"/>
   <property name="displayDpi" value="100"/>
-  <property name="mainWndWidth" value="2044"/>
-  <property name="mainWndHeight" value="1230"/>
+  <property name="mainWndWidth" value="1965"/>
+  <property name="mainWndHeight" value="1171"/>
   <property name="maximized" value="false"/>
   <property name="showToolbar" value="true"/>
   <property name="showSidebar" value="true"/>
