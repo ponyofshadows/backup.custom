@@ -14,7 +14,7 @@
   <property name="zoomStep" value="10"/>
   <property name="zoomStepScroll" value="2"/>
   <property name="displayDpi" value="100"/>
-  <property name="mainWndWidth" value="1965"/>
+  <property name="mainWndWidth" value="980"/>
   <property name="mainWndHeight" value="1171"/>
   <property name="maximized" value="false"/>
   <property name="showToolbar" value="true"/>
@@ -211,7 +211,7 @@
       <attribute name="drawingType" type="string" value="default"/>
     </data>
     <data name="highlighter">
-      <attribute name="color" type="hex" value="ff0000"/>
+      <attribute name="color" type="hex" value="ffff00"/>
       <attribute name="drawingType" type="string" value="default"/>
       <attribute name="fill" type="int" value="0"/>
       <attribute name="fillAlpha" type="int" value="128"/>
