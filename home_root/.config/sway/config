@@ -237,7 +237,6 @@ bindsym $mod+r mode "resize"
     bindsym $mod+Ctrl+q exec qq
     bindsym $mod+Ctrl+w exec wechat-uos-beta
     bindsym $mod+Alt+w exec pkill wechat
-    bindsym $mod+t exec steam steam://run/227300
 #
 # Status Bar:
 #
