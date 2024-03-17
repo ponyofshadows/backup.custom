@@ -14,7 +14,7 @@
   <property name="zoomStep" value="10"/>
   <property name="zoomStepScroll" value="2"/>
   <property name="displayDpi" value="100"/>
-  <property name="mainWndWidth" value="1965"/>
+  <property name="mainWndWidth" value="980"/>
   <property name="mainWndHeight" value="1171"/>
   <property name="maximized" value="false"/>
   <property name="showToolbar" value="true"/>
@@ -178,6 +178,10 @@
       <attribute name="deviceSource" type="int" value="0"/>
     </data>
     <data name="xwayland-relative-pointer:42">
+      <attribute name="deviceClass" type="int" value="1"/>
+      <attribute name="deviceSource" type="int" value="0"/>
+    </data>
+    <data name="xwayland-relative-pointer:45">
       <attribute name="deviceClass" type="int" value="1"/>
       <attribute name="deviceSource" type="int" value="0"/>
     </data>
